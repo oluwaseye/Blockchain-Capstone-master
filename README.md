@@ -146,13 +146,22 @@ Create smart contract named verifier.sol
 
 ```
 
-Contract Owner: 0xf9868F9004E7fba20DA7beD3aECef564911cD665
+Contract Owner: https://rinkeby.etherscan.io/address/0xf9868F9004E7fba20DA7beD3aECef564911cD665
 
-Verifier: 0x425693F5dC519041e9723384633B5c79aaEe5F65
+Verifier: https://rinkeby.etherscan.io/address/0x425693F5dC519041e9723384633B5c79aaEe5F65
 
-SolnSquareVerifier: 0xAffd4EA89327CD32a49a911C4C76C2299ec7e26c
+SolnSquareVerifier: https://rinkeby.etherscan.io/address/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c
 
 ```
+
+## Properties and Transaction Activities
+https://testnets.opensea.io/assets/unidentified-contract-tnunu0ykum?search[resultModel]=ASSETS
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/3
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/1
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/4
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/2
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/5
+https://testnets.opensea.io/assets/0xaffd4ea89327cd32a49a911c4c76c2299ec7e26c/12
 
 
 
